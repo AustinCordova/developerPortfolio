@@ -21,7 +21,7 @@ export default class Header extends Component {
             <div className="banner-text">
               <h1 className="responsive-headline">I'm Austin Cordova.</h1>
               <h3>I am learning the neccessary skills to become a full stack developer. 
-              Making a difference not only in the tech feild but as a member of society. <a className="smoothscroll" href="#about">About Me</a></h3>
+              Making a difference not only in the tech field but as a member of society. <a className="smoothscroll" href="#about">About Me</a></h3>
               <hr />
               <ul className="social">
                 <li><a href="https://www.linkedin.com/in/austincordova"><i className="fa fa-linkedin" /></a></li>
